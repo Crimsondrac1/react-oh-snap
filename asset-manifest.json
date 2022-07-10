@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-oh-snap/static/css/main.90e75332.chunk.css",
+    "main.js": "/react-oh-snap/static/js/main.60a8325b.chunk.js",
+    "main.js.map": "/react-oh-snap/static/js/main.60a8325b.chunk.js.map",
+    "runtime-main.js": "/react-oh-snap/static/js/runtime-main.d1ce9a53.js",
+    "runtime-main.js.map": "/react-oh-snap/static/js/runtime-main.d1ce9a53.js.map",
+    "static/js/2.411037d5.chunk.js": "/react-oh-snap/static/js/2.411037d5.chunk.js",
+    "static/js/2.411037d5.chunk.js.map": "/react-oh-snap/static/js/2.411037d5.chunk.js.map",
+    "static/js/3.56061bbb.chunk.js": "/react-oh-snap/static/js/3.56061bbb.chunk.js",
+    "static/js/3.56061bbb.chunk.js.map": "/react-oh-snap/static/js/3.56061bbb.chunk.js.map",
+    "index.html": "/react-oh-snap/index.html",
+    "static/css/main.90e75332.chunk.css.map": "/react-oh-snap/static/css/main.90e75332.chunk.css.map",
+    "static/js/2.411037d5.chunk.js.LICENSE.txt": "/react-oh-snap/static/js/2.411037d5.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/react-oh-snap/static/media/0.b18c130d.jpg",
+    "static/media/1.jpg": "/react-oh-snap/static/media/1.ffe481f4.jpg",
+    "static/media/2.jpg": "/react-oh-snap/static/media/2.da4d6061.jpg",
+    "static/media/3.jpg": "/react-oh-snap/static/media/3.dd376ef9.jpg",
+    "static/media/4.jpg": "/react-oh-snap/static/media/4.ed3b1a69.jpg",
+    "static/media/cover-image.533ae8f6.jpg": "/react-oh-snap/static/media/cover-image.533ae8f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1ce9a53.js",
+    "static/js/2.411037d5.chunk.js",
+    "static/css/main.90e75332.chunk.css",
+    "static/js/main.60a8325b.chunk.js"
+  ]
+}
