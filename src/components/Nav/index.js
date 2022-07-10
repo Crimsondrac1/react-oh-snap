@@ -13,7 +13,6 @@ function Nav(props) {
   useEffect(() => {
     document.title = capitalizeFirstLetter(currentCategory.name);
   }, [currentCategory]);
-
   return (
     <header className="flex-row px-1">
       <h2>
