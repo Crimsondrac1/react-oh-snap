@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-oh-snap/static/css/main.90e75332.chunk.css",
-    "main.js": "/react-oh-snap/static/js/main.60a8325b.chunk.js",
-    "main.js.map": "/react-oh-snap/static/js/main.60a8325b.chunk.js.map",
+    "main.js": "/react-oh-snap/static/js/main.81c9147d.chunk.js",
+    "main.js.map": "/react-oh-snap/static/js/main.81c9147d.chunk.js.map",
     "runtime-main.js": "/react-oh-snap/static/js/runtime-main.d1ce9a53.js",
     "runtime-main.js.map": "/react-oh-snap/static/js/runtime-main.d1ce9a53.js.map",
     "static/js/2.411037d5.chunk.js": "/react-oh-snap/static/js/2.411037d5.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.d1ce9a53.js",
     "static/js/2.411037d5.chunk.js",
     "static/css/main.90e75332.chunk.css",
-    "static/js/main.60a8325b.chunk.js"
+    "static/js/main.81c9147d.chunk.js"
   ]
 }
