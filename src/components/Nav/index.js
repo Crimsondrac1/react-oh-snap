@@ -17,7 +17,7 @@ function Nav(props) {
   return (
     <header className="flex-row px-1">
       <h2>
-        <a data-testid="link" href="/">
+        <a data-testid="link" href="https://crimsondrac1.github.io/react-oh-snap/">
           <span role="img" aria-label="camera"> 📸</span> Oh Snap!
         </a>
       </h2>
